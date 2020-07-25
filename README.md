@@ -1,6 +1,8 @@
 # sql_voting_system
 [Project done on Nov 2018.]
 
+## Description
+
 Una organización con 1.500 afiliados desea implementar un sistema de votación electrónica de
 forma de posibilitar la participación de sus afiliados independientemente del lugar físico donde se
 encuentren.
