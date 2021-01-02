@@ -1,4 +1,4 @@
-# sql_voting_system
+# sql-voting-system
 [Project done on Nov 2018.]
 
 ## Description
